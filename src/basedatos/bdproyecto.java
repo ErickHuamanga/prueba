@@ -17,7 +17,10 @@ public class bdproyecto {
     public static void main(String[] args) {
         // TODO code application logic here
         String nombre="erick";
+        String apellido="Huamanga Huamanga";
         
+        String nombre="Herminia";
+        String apellidos="huaylla huaman";
         
     }
     
